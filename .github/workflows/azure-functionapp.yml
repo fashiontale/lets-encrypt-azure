@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: letsencrypt-func
+  ResourceGroup: ft-letsencrypt-func
 jobs:
   build:
     runs-on: ubuntu-latest
